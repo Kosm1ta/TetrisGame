@@ -25,5 +25,12 @@
         <Grid.Background>
             <ImageBrush ImageSource="Assets/Background.png"/>
         </Grid.Background>
+        
+        <Canvas x:Name="GameCanvas"
+                Grid.Row="1"
+                Grid.Column="1"
+                Background="#101010"
+                Width="250"
+                Height="500"/>
     </Grid>
 </Window>
