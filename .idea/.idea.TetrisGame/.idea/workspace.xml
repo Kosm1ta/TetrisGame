@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="348f6964-ebd2-4ba0-9c7c-ded2d25f50f0" name="Changes" comment="commmit">
+    <list default="true" id="348f6964-ebd2-4ba0-9c7c-ded2d25f50f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TetrisGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TetrisGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TetrisGame/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TetrisGame/MainWindow.xaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TetrisGame/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TetrisGame/MainWindow.xaml.cs" afterDir="false" />
@@ -22,6 +22,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/System/Runtime/ExceptionServices/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/mazan/RiderProjects/TetrisGame/TetrisGame/MainWindow.xaml" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -95,7 +96,8 @@
       <workItem from="1713166429961" duration="18793000" />
       <workItem from="1713254469236" duration="1564000" />
       <workItem from="1713265748163" duration="971000" />
-      <workItem from="1713270355249" duration="4717000" />
+      <workItem from="1713270355249" duration="4865000" />
+      <workItem from="1713291297868" duration="10579000" />
     </task>
     <task id="LOCAL-00001" summary="/UPDATE/ Przesłanie plików">
       <option name="closed" value="true" />
@@ -113,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713254798341</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="/UPDATE/ UI start">
+      <option name="closed" value="true" />
+      <created>1713276730758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713276730758</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +135,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="/UPDATE/ Przesłanie plików" />
     <MESSAGE value="commmit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commmit" />
+    <MESSAGE value="/UPDATE/ UI start" />
+    <option name="LAST_COMMIT_MESSAGE" value="/UPDATE/ UI start" />
   </component>
 </project>
