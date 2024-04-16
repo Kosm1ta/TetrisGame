@@ -5,8 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TetrisGame"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Tetris" Height="600" Width="800"
+        MinWidth="600" MinHeight="600"
+        Foreground="White"
+        FontFamily="Segoe UI Light" FontSize="28"
+        KeyDown="Window_KeyDown">
     <Grid>
-
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/Background.png"/>
+        </Grid.Background>
     </Grid>
 </Window>
