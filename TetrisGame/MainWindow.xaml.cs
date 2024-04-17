@@ -145,7 +145,7 @@ public partial class MainWindow : Window
         while (!gameState.GameOver)
         {
             int delay = Math.Max(minDelay, maxDelay - (gameState.Score * delayDecrease));
-            await Task.Delay(500);
+            await Task.Delay(delay);
             gameState.MoveBlockDown();
             Draw(gameState);
         }
