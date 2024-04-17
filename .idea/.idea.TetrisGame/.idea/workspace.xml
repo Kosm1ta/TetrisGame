@@ -9,8 +9,11 @@
   <component name="ChangeListManager">
     <list default="true" id="348f6964-ebd2-4ba0-9c7c-ded2d25f50f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TetrisGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TetrisGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TetrisGame/GameState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TetrisGame/GameState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TetrisGame/Grid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TetrisGame/Grid.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TetrisGame/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TetrisGame/MainWindow.xaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TetrisGame/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TetrisGame/MainWindow.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TetrisGame/TetrisGame.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TetrisGame/TetrisGame.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Project.TetrisGame.executor": "Run",
+    ".NET Project.TetrisGame.executor": "Debug",
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -97,7 +100,8 @@
       <workItem from="1713254469236" duration="1564000" />
       <workItem from="1713265748163" duration="971000" />
       <workItem from="1713270355249" duration="4865000" />
-      <workItem from="1713291297868" duration="10579000" />
+      <workItem from="1713291297868" duration="11855000" />
+      <workItem from="1713348113649" duration="8065000" />
     </task>
     <task id="LOCAL-00001" summary="/UPDATE/ Przesłanie plików">
       <option name="closed" value="true" />
@@ -123,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713276730758</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="/UPDATE/ GameLoop">
+      <option name="closed" value="true" />
+      <created>1713308156747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713308156747</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +148,7 @@
     <MESSAGE value="/UPDATE/ Przesłanie plików" />
     <MESSAGE value="commmit" />
     <MESSAGE value="/UPDATE/ UI start" />
-    <option name="LAST_COMMIT_MESSAGE" value="/UPDATE/ UI start" />
+    <MESSAGE value="/UPDATE/ GameLoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="/UPDATE/ GameLoop" />
   </component>
 </project>

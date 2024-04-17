@@ -33,7 +33,10 @@ public class Grid
     {
         for (int c = 0; c < Columns; c++)
         {
-            if (grid[r, c] == 0) ;
+            if (grid[r, c] == 0)
+            {
+                return false;
+            }
         }
 
         return true;
@@ -73,7 +76,7 @@ public class Grid
     {
         int cleared = 0;
 
-        for (int r = Rows; r < 0; r--)
+        for (int r = Rows - 1; r >= 0; r--)
         {
             if (IsRowFull(r))
             {
@@ -88,5 +91,4 @@ public class Grid
 
         return cleared;
     }
-    
 }
