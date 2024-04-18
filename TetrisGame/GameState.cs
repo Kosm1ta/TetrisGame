@@ -125,8 +125,17 @@ public class GameState
         {
             Grid[p.Row, p.Column] = CurrentBlock.Id;
         }
-
-        Score += Grid.ClearFullRows();
+        
+        int tmpscore = Grid.ClearFullRows();
+        
+        if (tmpscore >= 4)
+        {
+            Score += 2*tmpscore;
+        }
+        else
+        {
+            Score += tmpscore;
+        }
 
         if (IsGameOver())
         {
