@@ -202,3 +202,4 @@ public partial class MainWindow : Window
         await GameLoop();
     }
 }
+//Autor: Kosmita

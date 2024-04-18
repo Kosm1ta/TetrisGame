@@ -14,3 +14,4 @@ public class BlockI : Block
     protected override Position StartOffset => new Position(-1, 3);
     protected override Position[][] Tiles => tiles;
 }
+//Autor: Kosmita

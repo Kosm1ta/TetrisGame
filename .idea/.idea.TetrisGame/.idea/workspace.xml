@@ -10,6 +10,7 @@
     <list default="true" id="348f6964-ebd2-4ba0-9c7c-ded2d25f50f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TetrisGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TetrisGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TetrisGame/GameState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TetrisGame/GameState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TetrisGame/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TetrisGame/MainWindow.xaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +22,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/System/Runtime/ExceptionServices/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/mazan/RiderProjects/TetrisGame/TetrisGame/BlockI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/mazan/RiderProjects/TetrisGame/TetrisGame/GameState.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -101,7 +102,8 @@
       <workItem from="1713348113649" duration="8384000" />
       <workItem from="1713379422268" duration="693000" />
       <workItem from="1713383105856" duration="788000" />
-      <workItem from="1713417539929" duration="288000" />
+      <workItem from="1713417539929" duration="1157000" />
+      <workItem from="1713423702838" duration="817000" />
     </task>
     <task id="LOCAL-00001" summary="/UPDATE/ Przesłanie plików">
       <option name="closed" value="true" />
@@ -151,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713380093049</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="/UPDATE/ BonusPoints">
+      <option name="closed" value="true" />
+      <created>1713418547398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713418547398</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +177,7 @@
     <MESSAGE value="/UPDATE/ GameLoop" />
     <MESSAGE value="/UPDATE and FIX/ Clearing rows" />
     <MESSAGE value="/FIX and UPDATE/ TimerFix, BlockIFix" />
-    <option name="LAST_COMMIT_MESSAGE" value="/FIX and UPDATE/ TimerFix, BlockIFix" />
+    <MESSAGE value="/UPDATE/ BonusPoints" />
+    <option name="LAST_COMMIT_MESSAGE" value="/UPDATE/ BonusPoints" />
   </component>
 </project>
