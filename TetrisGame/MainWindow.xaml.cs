@@ -73,7 +73,7 @@ public partial class MainWindow : Window
                 Canvas.SetTop(imageControl, (r-2) * cellSize + 10);
                 Canvas.SetLeft(imageControl, c* cellSize);
                 GameCanvas.Children.Add(imageControl);
-                imageControls[r, c] = imageControl;
+                imageControls[r, c] = imageControl; 
             }
         }
         return imageControls;
